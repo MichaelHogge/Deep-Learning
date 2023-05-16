@@ -1,1 +1,1 @@
-# Deep Learning
+# CIFAR-10 Image Classification
