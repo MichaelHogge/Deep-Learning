@@ -1,1 +1,1 @@
-# Deep Learning
+# MNIST Digit Classification with CNN
