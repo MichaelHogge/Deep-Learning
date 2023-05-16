@@ -1,1 +1,1 @@
-# Deep Learning
+# Fashion MNIST Image Classification with CNN
